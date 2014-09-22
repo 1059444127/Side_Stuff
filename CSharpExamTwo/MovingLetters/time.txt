@@ -1,0 +1,36 @@
+Scramble words time: 00:00:00.0075963 
+Encode text: 00:00:01.4380580 
+Scramble words time: 00:00:00.0074717 
+Scramble words time: 00:00:00.0076613 
+Scramble words time: 00:00:00.0074031 
+Scramble words time: 00:00:00.0074013 
+Scramble words time: 00:00:00.0074861 
+Scramble words time: 00:00:00.0000087 
+Encode text: 00:00:00.0008445 
+Scramble words time: 00:00:00.0000084 
+Encode text: 00:00:00.0008201 
+Scramble words time: 00:00:00.0000087 
+Scramble words time: 00:00:00.0000066 
+Scramble words time: 00:00:00.0000069 
+Scramble words time: 00:00:00.0000084 
+Encode text: 00:00:00.0007940 
+Scramble words time: 00:00:00.0000084 
+Encode text: 00:00:00.0008204 
+Scramble words time: 00:00:00.0000087 
+Encode text: 00:00:00.0009417 
+Scramble words time: 00:00:00.0000084 
+Encode text: 00:00:00.0007858 
+Scramble words time: 00:00:00.0000099 
+Scramble words time: 00:00:00.0000087 
+Encode text: 00:00:00.0008214 
+Scramble words time: 00:00:00.0073703 
+Scramble words time: 00:00:00.0074603 
+Scramble words time: 00:00:00.0074536 
+Scramble words time: 00:00:00.0075508 
+Scramble words time: 00:00:00.0074702 
+Scramble words time: 00:00:00.0073712 
+Scramble words time: 00:00:00.0000081 
+Encode text: 00:00:00.0008427 
+Scramble words time: 00:00:00.0072837 
+Scramble words time: 00:00:00.0000084 
+Encode text: 00:00:00.0007094 

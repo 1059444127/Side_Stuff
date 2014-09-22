@@ -1,0 +1,17 @@
+﻿<Window x:Class="ClearSolutionGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Clear Solution" Height="150" Width="525" ResizeMode="CanMinimize">
+    <Grid>
+        <StackPanel Orientation="Vertical" VerticalAlignment="Top">
+            <TextBlock TextAlignment="Center" Padding="10">
+                Моля задайте пътя към директорията с проектите
+            </TextBlock>
+            <StackPanel Orientation="Horizontal" Height="Auto" HorizontalAlignment="Center">
+                <Button Name="bOpenFileDialog" Click="bOpenFileDialog_Click" Padding="10">Browse</Button>
+                <TextBox Name="tbResults" Margin="20 0 0 0" Width="200" VerticalAlignment="Center" Padding="10"></TextBox>
+            </StackPanel>
+            <Button Name="clearSolution" Click="clearSolution_Click" Margin="0 10 0 0" HorizontalAlignment="Center">Изчисти Решението</Button>
+        </StackPanel>
+    </Grid>
+</Window>

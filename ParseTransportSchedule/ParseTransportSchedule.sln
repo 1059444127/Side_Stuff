@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportSchedulesClasses", "TransportSchedulesClasses\TransportSchedulesClasses.csproj", "{79F9280F-89C1-4220-A639-1903A112F701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{6F17A31B-FC30-431D-B1EB-1A3625C074A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteProcessing", "RouteProcessing\RouteProcessing.csproj", "{FC18D147-DD8B-4E5B-BC59-E59D23BAEB66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimetablesTest", "TimetablesTest\TimetablesTest.csproj", "{842BA1A8-A97F-4BCC-A3F4-8C78C6A285E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79F9280F-89C1-4220-A639-1903A112F701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F9280F-89C1-4220-A639-1903A112F701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F9280F-89C1-4220-A639-1903A112F701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F9280F-89C1-4220-A639-1903A112F701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F17A31B-FC30-431D-B1EB-1A3625C074A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F17A31B-FC30-431D-B1EB-1A3625C074A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F17A31B-FC30-431D-B1EB-1A3625C074A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F17A31B-FC30-431D-B1EB-1A3625C074A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC18D147-DD8B-4E5B-BC59-E59D23BAEB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC18D147-DD8B-4E5B-BC59-E59D23BAEB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC18D147-DD8B-4E5B-BC59-E59D23BAEB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC18D147-DD8B-4E5B-BC59-E59D23BAEB66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{842BA1A8-A97F-4BCC-A3F4-8C78C6A285E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842BA1A8-A97F-4BCC-A3F4-8C78C6A285E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842BA1A8-A97F-4BCC-A3F4-8C78C6A285E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842BA1A8-A97F-4BCC-A3F4-8C78C6A285E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

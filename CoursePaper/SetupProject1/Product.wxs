@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="Course Paper Installer" Language="1033" Version="1.0.1.1" Manufacturer="Me" UpgradeCode="bdcbff2b-7829-4cad-8bda-8267b95634df">
+		<Package Id="*" InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes" />
+
+		<Feature Id="ProductFeature" Title="SetupProject1" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="Course Paper App" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+      <Component Guid="{0A3BFF0A-2FD6-48BC-94A9-CE75E570A45D}" >
+        <File Source="$(var.CoursePaperNew.TargetPath)" KeyPath="yes"></File>
+      </Component>
+      <Component Guid="{154DC67D-943D-4CEA-8A9E-D8824A7FDCBC}">
+        <File Source="..\CoursePaperNew\bin\debug\CoursePaperNew.exe.config" KeyPath="yes"></File>
+      </Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>

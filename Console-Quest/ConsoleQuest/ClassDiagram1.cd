@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleQuest.BattleSystem.EnemyParty&lt;T&gt;" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAACAABAAAAARCAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>BattleSystem\EnemyParty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleQuest.BattleSystem.Party" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAACAAAAAAAAACAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>BattleSystem\Party.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelerikQuest.BattleSystem.BattleEngine" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BattleSystem\BattleEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleQuest.Characters.Ally" Collapsed="true">
+    <Position X="6" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAABAAEBAACBAAAAAACAAAA=</HashCode>
+      <FileName>Characters\Ally.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleQuest.Characters.Combatant" Collapsed="true">
+    <Position X="3.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQQAAQIEACIEIAAMAAAAAAAAAEAAAABAABAsIAAAAg=</HashCode>
+      <FileName>Characters\Combatant.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleQuest.Characters.Enemy" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Characters\Enemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleQuest.Characters.Entity" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Characters\Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleQuest.Characters.Player" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAAAAAAAAAAAAAAAAAAEARAAABAACBAAAAAACAAAE=</HashCode>
+      <FileName>Characters\Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleQuest.Characters.PlayerControllable" Collapsed="true">
+    <Position X="5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Characters\PlayerControllable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleQuest.Characters.FinishedCharacters.Knight" Collapsed="true">
+    <Position X="5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAJAAAAAAAAAAAAgAAAAgA=</HashCode>
+      <FileName>Characters\FinishedCharacters\Knight.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleQuest.Characters.FinishedCharacters.PetDog" Collapsed="true">
+    <Position X="7.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQABAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Characters\FinishedCharacters\PetDog.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleQuest.Characters.FinishedCharacters.Wolf" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQABIAAAAAAAAAAAAAwAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Characters\FinishedCharacters\Wolf.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleQuest.Common.RandomGenerator" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACABAAAAAAAAAAEAAAAAAAAQAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Common\RandomGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleQUest.Common.SaveLoadSystem" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Common\SaveLoadSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleQuest.Engine.BattleSystem" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\BattleSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleQuest.Skills.BasicAttack" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAQAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Skills\BasicAttack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleQuest.Skills.CriticalStrike" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Skills\CriticalStrike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleQuest.Skills.Rend" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAAAAAAAAAAAAAAAAAACBAABAAgAAAAAAAAAA=</HashCode>
+      <FileName>Skills\Rend.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleQuest.Skills.ShieldBash" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAAAAAAAAAAAAAAAAAACBAAAAAgAAAAAAQAAA=</HashCode>
+      <FileName>Skills\ShieldBash.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleQuest.Skills.Skill" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAgAAAAAAAAAAQgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Skills\Skill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleQuest.Skills.SkillCollection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAQAAAAAAAAABAACAAAAAAIAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Skills\SkillCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConsoleQuest.Skills.StatusEffect" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAgAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Skills\StatusEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ConsoleQuest.BattleSystem.AttackLog" Collapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAQAAAIAAAEAAAAAAAQAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>BattleSystem\AttackLog.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ConsoleQuest.Skills.SkillDamage" Collapsed="true">
+    <Position X="11.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Skills\SkillDamage.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="ConsoleQuest.Characters.IAttackable" Collapsed="true">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAQAAAAAAAAAEAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Characters\IAttackable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ConsoleQuest.Characters.INonPlayableCharacter" Collapsed="true">
+    <Position X="13.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Characters\INonPlayableCharacter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ConsoleQuest.Characters.IScalable" Collapsed="true">
+    <Position X="9.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Characters\IScalable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ConsoleQuest.Characters.ITargetable" Collapsed="true">
+    <Position X="11.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAYg=</HashCode>
+      <FileName>Characters\ITargetable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ConsoleQuest.Skills.IAppliesStatusEffect" Collapsed="true">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Skills\IAppliesStatusEffect.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ConsoleQuest.Skills.CombatStatus" Collapsed="true">
+    <Position X="9.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAACAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Skills\CombatStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ConsoleQuest.Skills.DamageType" Collapsed="true">
+    <Position X="11.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Skills\DamageType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ConsoleQuest.Skills.StatusEffects" Collapsed="true">
+    <Position X="13.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEAAAAAAAAAAAAAAAAAAAACAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Skills\StatusEffects.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

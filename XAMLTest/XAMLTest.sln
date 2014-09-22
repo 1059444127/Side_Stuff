@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XAMLTest", "XAMLTest\XAMLTest.csproj", "{451AB6EE-83B3-4F37-8B01-C70295044C78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Forms", "1. Forms\1. Forms.csproj", "{00D43CBA-C632-43E3-AB9C-1907FEE8E96C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. MoreForms", "2. MoreForms\2. MoreForms.csproj", "{92DF2EDB-23B2-462A-867D-D87F0C632892}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. EvenMoreForms", "3. EvenMoreForms\3. EvenMoreForms.csproj", "{50E46E3D-042A-4C13-B86F-EDB694FAD063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. TabControl", "4. TabControl\4. TabControl.csproj", "{FF04C975-EF01-44B0-AB18-C64F6F6E4575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridSplitter Test", "GridSplitter Test\GridSplitter Test.csproj", "{C74EDBB6-2B0B-42A5-873E-84A9D94B8B6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{451AB6EE-83B3-4F37-8B01-C70295044C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451AB6EE-83B3-4F37-8B01-C70295044C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451AB6EE-83B3-4F37-8B01-C70295044C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451AB6EE-83B3-4F37-8B01-C70295044C78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D43CBA-C632-43E3-AB9C-1907FEE8E96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D43CBA-C632-43E3-AB9C-1907FEE8E96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D43CBA-C632-43E3-AB9C-1907FEE8E96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D43CBA-C632-43E3-AB9C-1907FEE8E96C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92DF2EDB-23B2-462A-867D-D87F0C632892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DF2EDB-23B2-462A-867D-D87F0C632892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92DF2EDB-23B2-462A-867D-D87F0C632892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92DF2EDB-23B2-462A-867D-D87F0C632892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50E46E3D-042A-4C13-B86F-EDB694FAD063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E46E3D-042A-4C13-B86F-EDB694FAD063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E46E3D-042A-4C13-B86F-EDB694FAD063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E46E3D-042A-4C13-B86F-EDB694FAD063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF04C975-EF01-44B0-AB18-C64F6F6E4575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF04C975-EF01-44B0-AB18-C64F6F6E4575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF04C975-EF01-44B0-AB18-C64F6F6E4575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF04C975-EF01-44B0-AB18-C64F6F6E4575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C74EDBB6-2B0B-42A5-873E-84A9D94B8B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74EDBB6-2B0B-42A5-873E-84A9D94B8B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74EDBB6-2B0B-42A5-873E-84A9D94B8B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74EDBB6-2B0B-42A5-873E-84A9D94B8B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
